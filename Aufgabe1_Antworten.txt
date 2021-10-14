@@ -1,0 +1,31 @@
+Aufgabe 1a:
+Beobachtete Protokolle:
+DNS - Layer 5-7
+UDP - Layer 4
+TCP - Layer 4
+TLSv1.2 - Layer 5
+
+Aufgabe 1b:
+Die IP-Adresse mit der Google antwortet lauter 142.250.186.36
+
+Beobachtete Protokoll e:
+DNS - Layer 5-7
+ICMP - Layer 3
+
+Aufgabe 1c:
+Der Linux File Manager meldet sich mit dem Benutzernamen anonymous und dem 
+Passwort gvfsd-ftp-1.44.1@example.com an
+
+Beobachtete Protokolle:
+FTP - Layer 5-7
+FTP-DATA - Layer 5-7
+TCP - Layer 4
+NTP - Layer 7
+MDNS - Layer 3
+DNS - Layer 5-7
+
+Der Niedrigste Layer Taucht Zuerst auf, bspw. so:
+Layer 1
+Layer 2
+Layer 3
+... usw
